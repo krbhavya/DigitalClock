@@ -1,0 +1,13 @@
+body{
+  background-color:black;
+}
+.Clock{
+  position: absolute;
+  color:lime;
+  font-size: 20px;
+  transform: translateX(-50%) translateY(-50%);
+  top: 50%;
+  left: 50%;
+  letter-spacing: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+}
